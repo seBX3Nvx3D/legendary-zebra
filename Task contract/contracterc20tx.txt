@@ -1,1 +1,1 @@
-|https://explorer-evm.testnet.swisstronik.com/tx/0xf2b2f5241fa25762d2fea8c658f2f976e90a4d5889de175005147a786c161e24
+|https://explorer-evm.testnet.swisstronik.com/tx/0x46c7057c215b322b5e847f66c0b8cc43bb2f88e1203130d5df2ff33f928c532d
